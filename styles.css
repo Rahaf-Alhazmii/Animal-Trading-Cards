@@ -1,0 +1,59 @@
+
+/* css file */
+
+/* This is the class selector for the full card */
+.full-card {
+    width: 300px;
+    border: 1px solid #d6d6f5;
+    padding: 15px;
+    box-shadow: 7px 7px 7px #e6eeff;
+  
+}
+
+/* This is the title type selector*/
+h3{
+color: #24248f; 
+}
+
+/* This is the image type selector*/
+img {
+ width: 300px;
+border: 1px solid #d6d6f5;
+}
+
+
+/* This is the divition type selector that contains interesting fact, list items, and description */
+div {
+border: 1px solid #d6d6f5;
+padding:0.5em;
+margin: 10px 0 0 0;
+
+}
+
+
+/* This is the class selector for the Morpho's description */
+.description{
+font-size: 12pt;
+}
+
+
+/* This is the unorderd-list type selector to style list's content*/
+ul{  
+padding: 0;
+list-style-type: none;
+margin: 0;
+}
+
+
+/* This is the span type selector to make list items's label bold*/
+span{
+font-weight:bold;
+color: #24248f;  
+  }
+
+
+/* This is the class selector for the interesting facts */
+.facts{
+font-style:italic;
+margin: 5px 0 12px 0;
+}
